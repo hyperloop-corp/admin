@@ -16,9 +16,9 @@
  */
 
 var config = {
-  "mapsApiKey": "AIzaSyDgPvTWsfm1H7JTsL0Wo5wk38Xh4lq0UcQ",
-  "firebaseApiKey": "AIzaSyBo0iSTVtevGrXae8u7UFZK1osd5vGDqg8",
-  "firebaseDatabaseURL": "https://hyperloop-261018.firebaseio.com",
+  "mapsApiKey": "",
+  "firebaseApiKey": "",
+  "firebaseDatabaseURL": "",
 };
 
 var app = firebase.initializeApp({
